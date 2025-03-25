@@ -22,5 +22,5 @@ jobs:
       - name: Instalar dependências
         run: npm install
 
-      - name: Rodar os testes
-        run: npm test
+      - name: Rodar os testes com cobertura
+        run: npm test -- --coverage
