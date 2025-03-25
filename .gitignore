@@ -1,0 +1,15 @@
+# Ignora dependências instaladas
+node_modules/
+
+# Ignora arquivos de testes e relatórios do Jest
+coverage/
+jest.config.js
+
+# Logs
+npm-debug.log*
+
+# Configurações do VSCode (opcional)
+.vscode/
+
+# Arquivos ocultos do macOS
+.DS_Store
