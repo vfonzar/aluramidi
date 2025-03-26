@@ -62,7 +62,7 @@ git push origin feature/nova-funcionalidade
 
 ---
 
-## 📜 Licençapre
+## 📜 Licença
 
 Este projeto é open-source e licenciado sob os termos da licença MIT.
 
