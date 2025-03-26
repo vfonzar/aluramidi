@@ -1,5 +1,7 @@
 # 🎹 AluraMidi
 
+📘 Leia este documento em: [🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md)
+
 ## 📖 Sobre o Projeto
 
 O AluraMidi é um projeto desenvolvido durante os estudos de JavaScript, com foco em manipulação do DOM, eventos de teclado e mouse, e lógica de programação para simular um teclado musical no navegador.
